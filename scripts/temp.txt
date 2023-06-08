@@ -1,0 +1,7 @@
+NACA
+3456
+oper
+r 3e6
+a 25
+cpwr ./cpFiles/cpPlot_3456_3e6_25.txt
+
